@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movies_rsc/static/css/main.745c5f31.css",
+    "main.js": "/Movies_rsc/static/js/main.5fad0c5f.js",
+    "index.html": "/Movies_rsc/index.html",
+    "main.745c5f31.css.map": "/Movies_rsc/static/css/main.745c5f31.css.map",
+    "main.5fad0c5f.js.map": "/Movies_rsc/static/js/main.5fad0c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745c5f31.css",
+    "static/js/main.5fad0c5f.js"
+  ]
+}
